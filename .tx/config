@@ -1,0 +1,18 @@
+[main]
+host = http://www.transifex.net
+
+[muecke.muecke-07]
+source_file = muecke/locale/en/LC_MESSAGES/django.po
+source_lang = en
+trans.de = muecke/locale/de/LC_MESSAGES/django.po
+trans.es = muecke/locale/es/LC_MESSAGES/django.po
+trans.es_MX = muecke/locale/es_MX/LC_MESSAGES/django.po
+trans.fr = muecke/locale/fr/LC_MESSAGES/django.po
+trans.it = muecke/locale/it/LC_MESSAGES/django.po
+trans.nl = muecke/locale/nl/LC_MESSAGES/django.po
+trans.pl = muecke/locale/pl/LC_MESSAGES/django.po
+trans.ro = muecke/locale/ro/LC_MESSAGES/django.po
+trans.ru = muecke/locale/ru/LC_MESSAGES/django.po
+trans.zh_CN = muecke/locale/zh_CN/LC_MESSAGES/django.po
+trans.zh_TW = muecke/locale/zh_TW/LC_MESSAGES/django.po
+
