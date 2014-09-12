@@ -1,0 +1,15 @@
+muecke.db
+.installed.cfg
+*.pyc
+*.pyo
+*.DS_Store
+*develop-eggs/
+*.egg-info/
+*eggs/
+*parts/
+*bin/
+*downloads/
+*sitestatic/
+*media/
+*dist/
+*docs/

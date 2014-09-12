@@ -1,0 +1,6 @@
+include README.txt
+recursive-include muecke/core/fixtures *
+recursive-include muecke/docs *
+recursive-include muecke/locale *
+recursive-include muecke/static *
+recursive-include muecke/templates *
